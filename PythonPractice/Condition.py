@@ -32,3 +32,5 @@ if num > 10:
         print("Number is greater than 10 and odd.")
 else:
     print("Number is less than or equal to 10.")
+    #changes to check git
+

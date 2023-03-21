@@ -52,6 +52,8 @@ print(a) # Output: 1.0
 #bitwise operator
 a = 10 # binary 1010
 b = 3 # binary 0011
+#changes to check git
+
 
 print(a & b) # Output: 2 (binary 0010)
 print(a | b) # Output: 11 (binary 1011)
